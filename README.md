@@ -36,7 +36,7 @@ O usuário irá visualizar todos os pratos cadastrados e, quando clicar em um pr
 
 ## Acesso
 
-Link de acesso ao projeto: 
+Link de acesso ao projeto: https://foodexplo.netlify.app/
 
 
 ## Execução do projeto
