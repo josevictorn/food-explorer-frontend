@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { FiX, FiSearch } from 'react-icons/fi';
 import { useAuth } from '../../hooks/auth';
 
-import { Footer } from '../footer';
+import { Footer } from '../Footer';
 import { Input } from '../Input';
 
 import { MenuMobileContainer, Header, Content } from "./styles";
