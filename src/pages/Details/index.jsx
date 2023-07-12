@@ -7,7 +7,7 @@ import { FiChevronLeft } from 'react-icons/fi';
 
 import { Header } from "../../components/Header";
 import { ButtonText } from '../../components/ButtonText';
-import { Footer } from "../../components/footer";
+import { Footer } from "../../components/Footer";
 
 import { api } from '../../services';
 

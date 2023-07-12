@@ -11,7 +11,7 @@ import { Input } from '../../components/Input';
 import { IngredientItem } from '../../components/IngredientItem';
 import { Textarea } from '../../components/Textarea';
 import { Button } from '../../components/Button';
-import { Footer } from '../../components/footer';
+import { Footer } from '../../components/Footer';
 
 import { api } from '../../services';
 

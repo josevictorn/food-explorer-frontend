@@ -9,7 +9,7 @@ import { useAuth } from '../../hooks/auth';
 import { Header } from '../../components/Header';
 import { Button } from '../../components/Button';
 import { Section } from '../../components/Section';
-import { Footer } from '../../components/footer';
+import { Footer } from '../../components/Footer';
 import { Stepper } from '../../components/Stepper';
 
 import { api } from '../../services';
